@@ -1,0 +1,5 @@
+train: ../datasets/PennFudanPed/PNGImages
+val: ../datasets/PennFudanPed/PNGImages
+
+nc: 1  # number of classes
+names: ['person']  # class names
